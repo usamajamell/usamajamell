@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://usamajamil.carrd.co/](https://usamajamil.carrd.co/)
 
-- 💬 Ask me about **PHP, SQL**
+- 💬 Ask me about **PHP, SQL, HTML5, CSS3, Bootstrap5, JQuery**
 
 - 📄 Know about my experiences [https://usamajamil.carrd.co/](https://usamajamil.carrd.co/)
 
