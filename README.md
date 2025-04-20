@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://usamajamil.carrd.co/](https://usamajamil.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://usamajamil.carrd.co/]([https://usamajamil.carrd.co/](https://usamajamel.netlify.app/))
 
 - 💬 Ask me about **PHP, SQL, HTML5, CSS3, Bootstrap5, JQuery**
 
