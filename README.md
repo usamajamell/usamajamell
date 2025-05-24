@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://usamajamil.carrd.co/]([https://usamajamil.carrd.co/](https://usamajamel.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://usamajamil.carrd.co/]([https://usamajamel.netlify.app/](https://usamajamel.netlify.app/))
 
 - 💬 Ask me about **PHP, SQL, HTML5, CSS3, Bootstrap5, JQuery**
 
-- 📄 Know about my experiences [https://usamajamil.carrd.co/](https://usamajamil.carrd.co/)
+- 📄 Know about my experiences [https://usamajamil.carrd.co/](https://usamajamel.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
