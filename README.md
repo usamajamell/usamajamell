@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Eatopia](https://theeatopia.netlify.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at ([https://usamajamel.netlify.app/](https://usamajamel.netlify.app/))
 
